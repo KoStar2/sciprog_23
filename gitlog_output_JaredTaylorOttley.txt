@@ -1,0 +1,113 @@
+commit 4dc3bd60511ae7b9d66662c235cecf00eec6f04a
+Author: KoStar2 <sp76@sciprog.aws1.ichec.ie>
+Date:   Mon Nov 27 21:31:50 2023 +0000
+
+    Added README files to all practicals
+
+commit 08a9f279d0c1115c7eede27ae2b14a01650f5060
+Author: KoStar2 <sp76@sciprog.aws1.ichec.ie>
+Date:   Mon Nov 27 04:24:24 2023 +0000
+
+    Added practical 09 code
+
+commit 4d4b61b90800d9e034b14d245a514374e16173f0
+Author: KoStar2 <sp76@sciprog.aws1.ichec.ie>
+Date:   Wed Nov 15 19:41:24 2023 +0000
+
+    Added practical 08 in C
+
+commit f2915f3752f5834e8094157aa0479d953d02b295
+Author: KoStar2 <sp76@sciprog.aws1.ichec.ie>
+Date:   Tue Nov 14 19:55:28 2023 +0000
+
+    Added practical07
+
+commit ed0a670a42296077eb6e9d0f653c4545b3c97aff
+Author: KoStar2 <sp76@sciprog.aws1.ichec.ie>
+Date:   Tue Nov 7 19:24:15 2023 +0000
+
+    Practical 6 in C
+
+commit 92a9d6817d377767166fb38e08db1a52aee5f7d0
+Author: KoStar2 <sp76@sciprog.aws1.ichec.ie>
+Date:   Fri Oct 27 16:52:39 2023 +0100
+
+    Adding arctanh code (c-version) to practical05
+
+commit 973b2b874db6f5ee45176b7214786ddbaaa458e9
+Author: KoStar2 <sp76@sciprog.aws1.ichec.ie>
+Date:   Tue Oct 24 22:08:35 2023 +0100
+
+    Added fibonacci programs for practical05
+
+commit ed1a2009e057312c6027726bee8bcc682462ed09
+Author: KoStar2 <sp76@sciprog.aws1.ichec.ie>
+Date:   Mon Oct 23 15:21:08 2023 +0100
+
+    Retrying upload 23/1-
+
+commit 816cf35f42cb05821959595f013562d2d607d21e
+Author: KoStar2 <sp76@sciprog.aws1.ichec.ie>
+Date:   Mon Oct 23 15:15:24 2023 +0100
+
+    Added practial2, fotran version of practical4
+
+commit 00e6b87b8c19e854b91815518164a904cfbb84d6
+Author: KoStar2 <sp76@sciprog.aws1.ichec.ie>
+Date:   Wed Oct 18 22:05:50 2023 +0100
+
+    Pratical 4 C version added, pratical03 updated
+
+commit bf147d7ff8fc47bb3fc8dbb8a02a5e161da3e891
+Author: KoStar2 <sp76@sciprog.aws1.ichec.ie>
+Date:   Tue Oct 10 15:51:08 2023 +0100
+
+    Adding practical03
+
+commit 4692ab067f0770b5b6dfe670a77980159c9a4599
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Fri Sep 29 09:12:05 2023 +0100
+
+    Update README.md
+
+commit cd1f3539715bb7505a462bca3747943b77a36bab
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Thu Sep 28 15:55:04 2023 +0100
+
+    Update README.md
+
+commit fb2f93729881b2f90f310fc663cc6efd1073017b
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Thu Sep 28 15:54:24 2023 +0100
+
+    Update README.md
+
+commit f7edcd0c9b27b4274913af43d7b53b379b0ed4de
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Thu Sep 28 14:51:49 2023 +0100
+
+    Update README.md
+
+commit 26f18819fe128ba33aac685c327ab3769f7f1efe
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Thu Sep 28 13:45:54 2023 +0100
+
+    Update README.md
+
+commit 28f1724422f6823ce758640815d12816bd7a92f1
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Thu Sep 28 13:42:38 2023 +0100
+
+    Update README.md
+
+commit 12c68e1b6ee16ac5c4fe31c683f42e900b93d64e
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Thu Sep 28 13:41:56 2023 +0100
+
+    Update README.md
+
+commit 25cbd308e636fcc641d18f37f3d0dc139d953832
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Wed Sep 27 14:11:53 2023 +0100
+
+    Initial commit
